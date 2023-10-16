@@ -1,15 +1,5 @@
+#Banking management System
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Banking Management System README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-  </style>
-</head>
 <body>
   <h1>Banking Management System</h1>
   <p>A simple web-based banking management system that allows users to create savings and current accounts, perform transactions, and manage their accounts.</p>
